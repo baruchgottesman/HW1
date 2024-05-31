@@ -1,2 +1,2 @@
 # HW1
-Homework and Initial Experimentalism in Github
+Homework and Initial Experimentalism with Github
